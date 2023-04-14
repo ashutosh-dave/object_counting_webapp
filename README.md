@@ -5,7 +5,7 @@
 1. Clone the repository.
 
 ```bash
-git clone https://github.com/infinity-plus/object_counting_webapp.git
+git clone https://github.com/ashutosh-dave/object_counting_webapp.git
 cd object_counting_webapp
 ```
 
