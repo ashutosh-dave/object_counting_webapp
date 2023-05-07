@@ -4,8 +4,14 @@
 
 1. Clone the repository.
 
+*Linux:
 ```bash
-git clone https://github.com/ashutosh-dave/object_counting_webapp.git
+gh clone https://github.com/ashutosh-dave/object_counting_webapp.git
+cd object_counting_webapp
+```
+*Windows:
+```bash
+git clone https://github.com/ashutosh-dave/object_counting_webapp,git
 cd object_counting_webapp
 ```
 
